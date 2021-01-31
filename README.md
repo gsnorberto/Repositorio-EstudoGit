@@ -1,7 +1,6 @@
 Meu Primeiro sistema no Git
 
 la la la teste 2 
+ei ei
 
-la la la 3
-
-la la la 4
+adicionei uma nova linha readme
